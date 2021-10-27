@@ -1,85 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="google-site-verification" content="xBT4GhYoi5qRD5tr338pgPM5OWHHIDR6mNg1a3euekI"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <title>cuzcuz - </title>
-    
-      <link rel="icon" href="/img/favicon.ico">
-    
-    <meta name="keyword"  content="">
-    
-<link rel="stylesheet" href="/css/style.css">
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>2</title>
+    <url>/2021/08/08/2/</url>
+    <content><![CDATA[<p>图片录入测试1</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>这是我的第一篇博客</title>
+    <url>/2021/08/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<meta name="generator" content="Hexo 5.4.0"></head>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
-<body>
-  <div class="loading-wrapper">
-    <div class="loading">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
-  </div>
-  <div class="page">
-    <div class="head">
-      <header class="head-header">
-  <h1 class="head-authorH">
-    <a href="/" class="head-authorLink">
-      cuzcuz</a>
-  </h1>
-  <div class="head-right">
-    <!-- <div class="head-search">
-      <input class="head-searchK"></input>
-      <span class="head-searchT">
-        </span>
-    </div> -->
-    <button class="barWrap" id="barWrap-toggle">
-      <span class="bar"></span>
-      <span class="bar"></span>
-      <span class="bar"></span>
-    </button>
-    <div class="head-about" id="head-about">
-      
-      <a class="head-aboutLink" href="/about">
-        About</a>
-      
-    </div>
-  </div>
-</header>
-    </div>
-    <div class="main">
-      <div class="barShow-head" id="barShow">
-  <ul class="barShow-ul">
-    
-  </ul>
-</div>
-      <article class="post" id="post">
-  <header class="post-head">
-    <h1 class="post-title">
-      <a class="title" href="/2021/10/11/html%E7%AC%A6%E5%8F%B7%E7%AC%94%E8%AE%B0/">
-        
-      </a>
-    </h1>
-  </header>
-  <div class="post-datetag">
-    <div class="post-date">
-      <time class="post-time" title="2021-10-11 22:41:52" datetime="2021-10-11T14:41:52.535Z" itemprop="datePublished">
-  2021-10-11</time>
-    </div>
-    <div class="post-tag">
-      
-    </div>
-  </div>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
-  
-
-  <div class="article-entry" itemprop="articleBody">
-    <p>html常用标签<br>1标题字号标签：</p><h1>一级标题</h1>其中h为head缩写<p></p>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2021/10/11/html%E7%AC%A6%E5%8F%B7%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>html常用标签<br>1标题字号标签：</p><h1>一级标题</h1>其中h为head缩写<p></p>
 <h2>二级</h2>以此类推
 段落标签：<p>段落</p> 此标签自带空行
 换行标签：<br>
@@ -181,159 +129,38 @@ form
 
 
 
-</textarea></bgsound></h3>
-  </div>
-</article>
+</textarea></bgsound></h3>]]></content>
+  </entry>
+  <entry>
+    <title>test1</title>
+    <url>/2021/08/08/test1/</url>
+    <content><![CDATA[<p>文字录入测试一</p>
+<p>图片录入测试一</p>
+<p><a href="test1.assets/88070709_p0.png">88070709_p0</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test3</title>
+    <url>/2021/08/08/test3/</url>
+    <content><![CDATA[<p><img src="/.com//kkk_541019812352340.jpg" alt="kkk_541019812352340"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test2</title>
+    <url>/2021/08/08/test2/</url>
+    <content><![CDATA[<p><img src="/.com//kkk_541019812352340-16285115952051.jpg" alt="kkk_541019812352340"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>关于外挂GitHub搭建hexo可能出现的报错点</title>
+    <url>/2021/10/10/%E5%85%B3%E4%BA%8E%E5%A4%96%E6%8C%82GitHub%E6%90%AD%E5%BB%BAhexo%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%8A%A5%E9%94%99%E7%82%B9/</url>
+    <content><![CDATA[<p>1。关于更新图片文件无法显示问题</p>
+<p><img src="/.com//kkk_541019812352340.jpg" alt="kkk_541019812352340"></p>
+<p>如上所示，图片不正常显示。</p>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">![图片](/images/kkk<span class="emphasis">_541019812352340.jpg）</span></span><br><span class="line"><span class="emphasis"></span></span><br></pre></td></tr></table></figure>
 
-    <aside class="post-widget">
-        <nav class="post-toc-wrap" id="post-toc">
-            <h4>TOC</h4>
-            <ol class="post-toc"><li class="post-toc-item post-toc-level-1"><a class="post-toc-link"><span class="post-toc-number">1.</span> <span class="post-toc-text">一级标题</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-2"><a class="post-toc-link"><span class="post-toc-number">1.1.</span> <span class="post-toc-text">二级</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-3"><a class="post-toc-link"><span class="post-toc-number">1.1.1.</span> <span class="post-toc-text"> 注意下文不需要加锚点链接
-上下文对应即构成锚点链接
-html注释标签：
-表格标签的基本使用
-align 属性值：left    center  right   规定单元表格相对周围元素的对齐方式  
-border“I”或”0”规定表格是否拥有边框
-cellpadding像素值   ‘规定单元格边沿内容之间的空白 默认一像素
-cellspacing像素值    规定单元格之间的空白   默认两像素
-width像素值或百分比    规定表格的宽度
-1.基本语法
-
-   
-    单元格内的文字   th：文字居中加粗显示
-    .....
-    
-    
-
-tr表示行 td表示单元格 th表示表头单元格
-
-表格的解构标签
-主要标签   分别表示表头和表身 内容必须包含tr标签
-合并单元格跨行合并  rowspan&#x3D;“合并单元格的个数”
-跨列合并  colspan&#x3D;”合并单元格的个数“
-跨行以最上侧的单元格为目标单元格写合并代码
-跨列以最左侧单元格写合并·代码·
-如 
-最后删去单元格
-有序列表                                         无序列表
-                                      
-        是傻逼                         
-           ........                                         .......
-                                 
-
-
-
-
-
-为某个网页设置背景音乐，使用的是bgsound标签。不过bgsound标签只适用于IE浏览器，在Firefox等浏览器中未必适用。
-设置网页背景音乐时常用的方法除了使用bgsound标签，还有使用embed标签和object标签。
-语法：
-
-
-说明：
-loop&#x3D;”2”表示重复2次，loop&#x3D;”infinite”表示无限次循环播放，也可以使用loop&#x3D;”-1”表示无限次循环播放。
-在网页中插入音频、视频和flash都是使用embed标签。
-语法：
-
-说明：
-多媒体文件地址可以是相对地址，也可以是绝对地址。
-width和height使用px作为单位
-HTML5中音频播放标签
- 
-    
-  
-属性为aotoplay controls loop src
-视频播放标签
-
-参数包括
-aotoplay controls width height loop preload(aoto none 是否预先加载视频） src poster(加载等待的画面图片 img url&#x3D;） muted
-表单  标签：input textarea select option
-input类型
-属性值 （type&#x3D;””)          说明
-email                         限制用户必须输入email类型
-url                             限制用户必须输入url
-date                          限制用户必须输入日期类型
-time                          限制用户必须输入时间类型
-number                    限制用户必须输入数字类型
-tel                              手机号码
-search                        搜索框
-color                           生成一个颜色选择表单
-text                        单行文本框
-password                密码文本框
-button                按钮
-reset                        重置按钮
-image                        图像形式的提交按钮
-radio                    单选按钮
-checkbox                复选框
-hiddon                   隐藏字段
-file                      文件上传
-单行文本框&lt;input type&#x3D;”text” value&#x3D;”默认文字”  size&#x3D;”文本框长度” maxlength&#x3D;“最多输入字符数”&#x2F;&gt;
-多行文本框
-
-
-    选项显示的内容
-
-    ……
-
-    选项显示的内容
-
-
-
-
-
-选项列表
-form
-select 
-   option    option
-   。。。。。。。。
-&#x2F;select
-form
-
-
-
-
-
-
-
-
-</span></a></li></ol></li></ol></li></ol>
-        </nav>
-    </aside>
-   
-    </div>
-    <footer class="footer-nav">
-      <div class="footer">
-        <span class="footer-msg">
-  
-  
-  
-  
-    <span class="timeDivide">-</span>
-    2021
-  
-  John Doe.&nbsp;
-  Power by
-  <a href="https://hexo.io/" target="_blank" rel="external nofollow">Hexo</a>
-  and
-  <a class="orangelink" href="https://github.com/" target="_blank" rel="">
-    hexo-theme-yuzu</a>
-</span>
-
-      </div>
-    </footer>
-    <div class="back-top" id="back-top">
-      <i class="back-top-icon"></i>
-    </div>
-    
-
-  <script src="/js/jquery/jquery-3.1.1.min.js"></script>
-
-    
-<script src="/js/theme.js"></script>
-
-    
-<script src="/js/index.js"></script>
-
-
-  </div>
-</body>
+<p><img src="/.com//kkk_541019812352340.jpg" alt="kkk_541019812352340"></p>
+<p><img src="/.com//img/1.jpg" alt="1"></p>
+]]></content>
+  </entry>
+</search>
