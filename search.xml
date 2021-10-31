@@ -138,11 +138,12 @@ text-align    对齐元素中的文本
 text-decoration    向文本添加修饰
 text-indent    缩进元素中文本的首行
 text-shadow    设置文本阴影
-text-transform    控制元素中的字母
+text-transform    `控制元素中的字母`
 unicode-bidi    设置或返回文本是否被重写 
 vertical-align    设置元素的垂直对齐
 white-space    设置元素中空白的处理方式
-word-spacing    设置字间距`
+word-spacing    设置字间距`![](https://i.loli.net/2021/10/31/XeC5jLTDmz6bQia.png)
+
 </style>]]></content>
   </entry>
   <entry>
@@ -270,38 +271,5 @@ select
 /select
 form`
 </textarea></bgsound></h3>]]></content>
-  </entry>
-  <entry>
-    <title>test1</title>
-    <url>/2021/08/08/test1/</url>
-    <content><![CDATA[<p>文字录入测试一</p>
-<p>图片录入测试一</p>
-<p><a href="test1.assets/88070709_p0.png">88070709_p0</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test2</title>
-    <url>/2021/08/08/test2/</url>
-    <content><![CDATA[<p><img src="/.com//kkk_541019812352340-16285115952051.jpg" alt="kkk_541019812352340"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test3</title>
-    <url>/2021/08/08/test3/</url>
-    <content><![CDATA[<img src="/.com//1.jpg">
-
-]]></content>
-  </entry>
-  <entry>
-    <title>关于外挂GitHub搭建hexo可能出现的报错点</title>
-    <url>/2021/10/10/%E5%85%B3%E4%BA%8E%E5%A4%96%E6%8C%82GitHub%E6%90%AD%E5%BB%BAhexo%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%8A%A5%E9%94%99%E7%82%B9/</url>
-    <content><![CDATA[<p>1。关于更新图片文件无法显示问题</p>
-<p><img src="/.com//kkk_541019812352340.jpg" alt="kkk_541019812352340"></p>
-<p>如上所示，图片不正常显示。</p>
-<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">![图片](/images/kkk<span class="emphasis">_541019812352340.jpg）</span></span><br><span class="line"><span class="emphasis"></span></span><br></pre></td></tr></table></figure>
-
-<p><img src="/.com//kkk_541019812352340.jpg" alt="kkk_541019812352340"></p>
-<p><img src="/.com//img/1.jpg" alt="1"></p>
-]]></content>
   </entry>
 </search>
