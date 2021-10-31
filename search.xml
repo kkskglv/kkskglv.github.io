@@ -148,7 +148,7 @@ body
 `unicode-bidi    设置或返回文本是否被重写` 
 `vertical-align    设置元素的垂直对齐`
 `white-space    设置元素中空白的处理方式`
-`word-spacing    设置字间`距`
+``word-spacing    设置字间距```
 
 </style>]]></content>
   </entry>
