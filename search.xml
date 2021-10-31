@@ -25,6 +25,14 @@
 ]]></content>
   </entry>
   <entry>
+    <title>test1</title>
+    <url>/2021/08/08/test1/</url>
+    <content><![CDATA[<p>文字录入测试一</p>
+<p>图片录入测试一</p>
+<p><a href="test1.assets/88070709_p0.png">88070709_p0</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title></title>
     <url>/2021/10/11/html%E7%AC%A6%E5%8F%B7%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<p>html常用标签<br>1标题字号标签：</p><h1>一级标题</h1>其中h为head缩写<p></p>
@@ -84,7 +92,10 @@ tr表示行 td表示单元格 th表示表头单元格
 <p>说明：</p>
 <p>多媒体文件地址可以是相对地址，也可以是绝对地址。</p>
 <p>width和height使用px作为单位</p>
-<p>HTML5中音频播放标签<br> <audio controls><br>    <source src="./media/snow.mp3" type="audio/mpeg"><br>  </audio></p>
+<p>HTML5中音频播放标签</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;audio controls&gt;</span><br><span class="line">   &lt;source src=&quot;./media/snow.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;</span><br><span class="line"> &lt;/audio&gt;</span><br></pre></td></tr></table></figure>
+
+
 <p>属性为aotoplay controls loop src</p>
 <p>视频播放标签<br><video src="./media/video.mp4" controls="controls"></video><br>参数包括<br>aotoplay controls width height loop preload(aoto none 是否预先加载视频） src poster(加载等待的画面图片 img url=） muted</p>
 <p>表单  标签：input textarea select option</p>
@@ -105,9 +116,9 @@ multiple     multiple   可以多选文件提交
 <select multiple=" mutiple" size="可见列表项的数目">
 
     <option value="选项值" selected="selected">选项显示的内容</option>
-
+    
     ……
-
+    
     <option value="选项值">选项显示的内容</option>
 
 
@@ -121,34 +132,18 @@ select
    。。。。。。。。
 /select
 form
-
-
-
-
-
-
-
-
 </textarea></bgsound></h3>]]></content>
   </entry>
   <entry>
-    <title>test1</title>
-    <url>/2021/08/08/test1/</url>
-    <content><![CDATA[<p>文字录入测试一</p>
-<p>图片录入测试一</p>
-<p><a href="test1.assets/88070709_p0.png">88070709_p0</a></p>
+    <title>test2</title>
+    <url>/2021/08/08/test2/</url>
+    <content><![CDATA[<p><img src="/.com//kkk_541019812352340-16285115952051.jpg" alt="kkk_541019812352340"></p>
 ]]></content>
   </entry>
   <entry>
     <title>test3</title>
     <url>/2021/08/08/test3/</url>
     <content><![CDATA[<p><img src="/.com//kkk_541019812352340.jpg" alt="kkk_541019812352340"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test2</title>
-    <url>/2021/08/08/test2/</url>
-    <content><![CDATA[<p><img src="/.com//kkk_541019812352340-16285115952051.jpg" alt="kkk_541019812352340"></p>
 ]]></content>
   </entry>
   <entry>
